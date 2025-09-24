@@ -1,0 +1,2 @@
+Python is a high-level programming language used for web development, data analysis, and AI. It was created by Guido van Rossum.
+```
